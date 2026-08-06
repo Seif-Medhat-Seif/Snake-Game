@@ -1,0 +1,83 @@
+# ===========================
+# Visual Studio
+# ===========================
+
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.VC.db
+*.VC.opendb
+*.opendb
+
+# IntelliSense
+ipch/
+*.ipch
+
+# Build results
+Debug/
+Release/
+x64/
+x86/
+Win32/
+ARM/
+ARM64/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+install_manifest.txt
+Makefile
+
+# Build folders
+build/
+Build/
+build-*/
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.obj
+*.o
+*.lo
+*.slo
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lai
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Debug symbols
+*.pdb
+*.ilk
+*.idb
+
+# Precompiled headers
+*.pch
+*.gch
+
+# Logs & temp
+*.log
+*.tmp
+*.bak
+*.cache
+.cache/
+
+# vcpkg
+vcpkg_installed/
+
+# Testing
+Testing/
